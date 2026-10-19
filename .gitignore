@@ -1,0 +1,7 @@
+data/
+data-refresh/
+results-refresh/
+results/candidate_periods.csv
+__pycache__/
+.ipynb_checkpoints/
+.venv/
